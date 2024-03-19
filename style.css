@@ -97,6 +97,10 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background-color: #51a386;
+}
+
 footer {
   font-size: 14px;
   line-height: 28px;
@@ -108,6 +112,8 @@ footer {
 
 footer a {
   font-weight: bold;
+  color: #1F1534;
+  text-decoration: none;
 }
 
 #balls {
